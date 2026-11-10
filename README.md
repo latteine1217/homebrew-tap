@@ -2,6 +2,8 @@
 
 Homebrew casks for apps by [@latteine1217](https://github.com/latteine1217).
 
+Current Ripen release: **0.3.3**.
+
 ```sh
 brew install --cask latteine1217/tap/ripen
 ```
