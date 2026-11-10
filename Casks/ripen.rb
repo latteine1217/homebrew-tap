@@ -1,6 +1,6 @@
 cask "ripen" do
-  version "0.2.6"
-  sha256 "927d5fb1423f04783d17fb0a3003b3b7c10111a9ae0753d8a2f963f222e09481"
+  version "0.3.0"
+  sha256 "8517d2cf4c9b5232a94860f6feab3841f3dd49dfd98b14b20de85a0be1e58f74"
 
   url "https://github.com/latteine1217/ripen/releases/download/v#{version}/Ripen-#{version}.dmg"
   name "Ripen"
